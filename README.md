@@ -19,21 +19,9 @@ Example:
 curl --location --request GET 'https://points-microservice.herokuapp.com/'
 ```
 ### Customer
-* Create a customer
+Create a customer
 
 Route: POST /customers
-
-Example: 
-```
-curl --location --request POST 'https://points-microservice.herokuapp.com/customers' \
---header 'Content-Type: application/json' \
---data-raw '{
-    "customer": "Ning"
-}'
-```
-* Get a customer's information
-
-Route: GET /customers
 
 Example: 
 ```
