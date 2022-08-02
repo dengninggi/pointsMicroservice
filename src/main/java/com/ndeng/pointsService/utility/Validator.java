@@ -6,6 +6,9 @@ import com.ndeng.pointsService.service.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 
+/**
+ * The class to validate requests
+ */
 public class Validator {
     @Autowired
     private CustomerService customerService;

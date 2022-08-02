@@ -1,5 +1,8 @@
 package com.ndeng.pointsService.utility;
 
+/**
+ * Pre-defined error messages.
+ */
 public enum ErrorMessage {
     POINTS_INEFFICIENCY("The customer's points balance is inefficient."),
     CUSTOMER_NOT_EXIST("The customer does not exist."),
