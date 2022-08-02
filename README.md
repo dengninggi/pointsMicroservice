@@ -12,7 +12,7 @@ The service is deployed on Heroku. The host address is https://points-microservi
 
 Check whether the service is available. 
 
-Route: /
+Route: GET /
 
 Example: 
 ```
