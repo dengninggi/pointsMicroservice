@@ -7,6 +7,8 @@
 * Payer (the implementation is not completed).
 ## Deployments
 The service is deployed on Heroku. The host address is https://points-microservice.herokuapp.com
+## Running on local machine
+
 ## Routes
 ### Health Check Point
 
